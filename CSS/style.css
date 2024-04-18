@@ -1,0 +1,8 @@
+*{
+    margin: 0 auto;
+}
+
+header h1{
+    background-color: rgb(32, 32, 32);
+    text-align: center;
+}
